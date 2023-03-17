@@ -1,2 +1,2 @@
-let hello = "Hello World";
-alert(hello);
+// 1 Переменные
+
